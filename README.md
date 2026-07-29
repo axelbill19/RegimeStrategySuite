@@ -27,10 +27,11 @@ tendencia de 60 días × estrés de volatilidad:
 (PANIC / BUBBLE / HERD / NORMAL) derivado de kurtosis, skew y persistencia de
 tendencia rodantes, con percentiles **walk-forward (expanding, sin
 look-ahead)**. Es la traducción a datos reales de los hallazgos del
-simulador de agentes en **BehavioralMarket** (mismo autor, repo separado):
-ese proyecto probó con un ABM que ciertos sesgos conductuales producen
-firmas estadísticas reconocibles; aquí se detectan esas mismas firmas sobre
-retornos reales, no se re-simula nada.
+simulador de agentes en
+[BehavioralMarket](https://github.com/axelbill19/BehavioralMarket) (mismo
+autor, repo separado): ese proyecto probó con un ABM que ciertos sesgos
+conductuales producen firmas estadísticas reconocibles; aquí se detectan
+esas mismas firmas sobre retornos reales, no se re-simula nada.
 
 ## Arquitectura
 
